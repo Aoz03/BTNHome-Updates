@@ -1,4 +1,4 @@
 {
-  "payload": "BTNUPDATE1\nfirmware\nmainboard-v1\n80:B5:4E:C1:E4:CC\n2026102406\n1337344\n6e49061ec997e14f86cf1e624ebf00f8d5543cae229009d094ceaf375c73b7f5\nhttps://github.com/Aoz03/BTNHome-Updates/releases/download/pilot-2026-10-24/BTNHome-V1-2026102406.firmware.enc\n1792875226\n1795467526\n1\n",
-  "signature": "MEQCIGxO4o+18p9TE4vClm04zti/qbipkne7SL9YdQfzas3NAiBt0y+lrK5XjX/LB/zRri/b8zku3rDIqqpNQLcdQGRGXg=="
+  "payload": "BTNUPDATE1\nfirmware\nmainboard-v1\n80:B5:4E:C1:E4:CC\n2026102501\n1337200\n6712611015d9b799bbe2b9d4903432295bf741b0aceb063bf27ab633bf58de4f\nhttps://github.com/Aoz03/BTNHome-Updates/releases/download/pilot-2026-10-24/BTNHome-V1-2026102501.firmware.enc\n1792909452\n1795501752\n1\n",
+  "signature": "MEUCIQDtllT6dlZh/P0o9G08D+ZzReVABlcCDRCrey8Xu6/heQIgCPdHE0UFIUXFcmGdFFmSRvo8ATR04N68QlDUvVbyRVc="
 }
